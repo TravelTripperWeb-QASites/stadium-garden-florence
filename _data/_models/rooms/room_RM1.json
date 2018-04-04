@@ -1,0 +1,181 @@
+{
+  "name_localized": {
+    "en": "Apartment, 1 Bedroom",
+    "es": "Apartment, 1 Bedroom"
+  },
+  "short_description_localized": {
+    "en": "Apartment, 1 Bedroom",
+    "es": "Apartment, 1 Bedroom"
+  },
+  "description_localized": {
+    "en": "<strong>1 Queen Bed and 1 Double Sofa Bed</strong><br />861-sq-foot (80-sq-meter) individually decorated room with a furnished patio<br /><br /><b>Layout</b> - Bedroom, living room, and dining area<br /><b>Internet</b> - Free WiFi <br /> <b>Entertainment</b> - Flat-screen TV with cable channels<br /><b>Food & Drink</b> - Kitchen with refrigerator, stovetop, microwave, and cookware/dishware<br /><b>Sleep</b> - Linens <br /><b>Bathroom</b> - Private bathroom, shower, free toiletries, and a bidet<br /><b>Practical</b> - Iron/ironing board; cribs/infant beds available on request<br /><b>Comfort</b> - Air conditioning and heating<br />Non-Smoking<br />&nbsp;",
+    "es": "<strong>1 Queen Bed and 1 Double Sofa Bed</strong><br />861-sq-foot (80-sq-meter) individually decorated room with a furnished patio<br /><br /><b>Layout</b> - Bedroom, living room, and dining area<br /><b>Internet</b> - Free WiFi <br /> <b>Entertainment</b> - Flat-screen TV with cable channels<br /><b>Food & Drink</b> - Kitchen with refrigerator, stovetop, microwave, and cookware/dishware<br /><b>Sleep</b> - Linens <br /><b>Bathroom</b> - Private bathroom, shower, free toiletries, and a bidet<br /><b>Practical</b> - Iron/ironing board; cribs/infant beds available on request<br /><b>Comfort</b> - Air conditioning and heating<br />Non-Smoking<br />&nbsp;"
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Air conditioning"
+      },
+      {
+        "name": "Bidet"
+      },
+      {
+        "name": "Cable TV service"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "Coffee/tea maker"
+      },
+      {
+        "name": "Cookware, dishware, and utensils"
+      },
+      {
+        "name": "Cribs/infant beds (surcharge)"
+      },
+      {
+        "name": "Flat-panel TV"
+      },
+      {
+        "name": "Free toiletries"
+      },
+      {
+        "name": "Furnished patio"
+      },
+      {
+        "name": "Heating"
+      },
+      {
+        "name": "Individually decorated"
+      },
+      {
+        "name": "Individually furnished"
+      },
+      {
+        "name": "Iron/ironing board"
+      },
+      {
+        "name": "Kitchen"
+      },
+      {
+        "name": "Linens provided"
+      },
+      {
+        "name": "Microwave"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Private bathroom"
+      },
+      {
+        "name": "Refrigerator"
+      },
+      {
+        "name": "Separate bedroom"
+      },
+      {
+        "name": "Separate dining area"
+      },
+      {
+        "name": "Separate living room"
+      },
+      {
+        "name": "Shower only"
+      },
+      {
+        "name": "Stovetop"
+      },
+      {
+        "name": "Towels provided"
+      }
+    ],
+    "es": [
+      {
+        "name": "Air conditioning"
+      },
+      {
+        "name": "Bidet"
+      },
+      {
+        "name": "Cable TV service"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "Coffee/tea maker"
+      },
+      {
+        "name": "Cookware, dishware, and utensils"
+      },
+      {
+        "name": "Cribs/infant beds (surcharge)"
+      },
+      {
+        "name": "Flat-panel TV"
+      },
+      {
+        "name": "Free toiletries"
+      },
+      {
+        "name": "Furnished patio"
+      },
+      {
+        "name": "Heating"
+      },
+      {
+        "name": "Individually decorated"
+      },
+      {
+        "name": "Individually furnished"
+      },
+      {
+        "name": "Iron/ironing board"
+      },
+      {
+        "name": "Kitchen"
+      },
+      {
+        "name": "Linens provided"
+      },
+      {
+        "name": "Microwave"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Private bathroom"
+      },
+      {
+        "name": "Refrigerator"
+      },
+      {
+        "name": "Separate bedroom"
+      },
+      {
+        "name": "Separate dining area"
+      },
+      {
+        "name": "Separate living room"
+      },
+      {
+        "name": "Shower only"
+      },
+      {
+        "name": "Stovetop"
+      },
+      {
+        "name": "Towels provided"
+      }
+    ]
+  },
+  "images": [
+
+  ],
+  "reztrip_room_id": "RM1",
+  "order": 1
+}

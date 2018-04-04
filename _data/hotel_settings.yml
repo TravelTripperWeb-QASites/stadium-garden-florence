@@ -1,18 +1,18 @@
-latitude: 40.7507385
-longitude: -73.97681210000002
+---
+latitude: 43.78256
+longitude: 11.28466
 map_zoom: 12
-name: "Paradise Hotel"
-email: "info@traveltripper.com"
-phone_number: "1-212-683-6161"
-  
+name: Stadium Garden
+email: steffan@traveltripper.io
+phone_number: 001-111-1111
 address:
-  city: "New York"
-  country: "United States"
-  state: "NY"
-  street1: "370 Lexington Ave"
-  street2: "Suite 1601"
-  zip_code: "10017"
-  
-_hotel_id: KEY24N #KEY24N, TTDEMO, HODE
-_portal_id: required-but-empty #24northhotel, demo, demohotel
-_ttweb_plugins_version: "v2"
+  street1: 2 Via Volturno
+  street2: ''
+  state: ''
+  city: Florence
+  country: 
+  zip_code: '50123'
+_hotel_id: STA655
+_portal_id: required-but-empty
+_ttweb_plugins_version: v2
+_root_path: http://rtexpress-qa.ttaws.com/rt/.
